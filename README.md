@@ -1,4 +1,6 @@
-![Employee data](https://raw.githubusercontent.com/yassiezar/github-profile-summary-cards-example/2cd384d977964dc909f2b102355325d795fe5057/profile-summary-card-output/github_dark/0-profile-details.svg "Employee Data title")
+[![](https://raw.githubusercontent.com/yassiezar/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yassiezar/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/yassiezar/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **yassiezar/yassiezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
